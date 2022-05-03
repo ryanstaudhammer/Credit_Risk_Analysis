@@ -15,4 +15,5 @@ There were six models used to analyze this data. These models delivered mixed re
 ![](https://github.com/ryanstaudhammer/Credit_Risk_Analysis/blob/main/Resources/RFC.png)
 - Finally was Easy Ensemble Classifier. The accuracy of this model was about 93.3%. 
 ![](https://github.com/ryanstaudhammer/Credit_Risk_Analysis/blob/main/Resources/EEC.png)
-
+## Summary
+There was one model that seemed to have better accuracy than all the rest. The Easy Ensemble AdaBoost Classifier seemed to have the best accuracy of all the models. The only downside might be that this model is prone to overfitting data. 
